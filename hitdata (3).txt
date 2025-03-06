@@ -1,0 +1,15 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-80D773BF232C9BC-3530A021393F3024
+#datatype	hitsConcise Results
+#status	0
+#Start time	2025-03-03T03:05:20	Run time	0:00:00:03
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >WJZ82067.1 hypothetical protein VitviT2T_001859 [Vitis vinifera]	superfamily	461560	32	77	1.70811e-15	66.6272	cl38179	DUF702 superfamily	C	 - 
+Q#2 - >WJZ83257.1 hypothetical protein VitviT2T_002955 [Vitis vinifera]	specific	461560	12	138	7.21505e-74	219.551	pfam05142	DUF702	 - 	cl38179
+Q#3 - >WJZ86119.1 hypothetical protein VitviT2T_005609 [Vitis vinifera]	specific	461560	113	269	3.91224e-88	261.538	pfam05142	DUF702	 - 	cl38179
+Q#4 - >WJZ89662.1 hypothetical protein VitviT2T_008865 [Vitis vinifera]	specific	461560	209	366	1.3664e-81	247.671	pfam05142	DUF702	 - 	cl38179
+Q#5 - >WJZ89663.1 hypothetical protein VitviT2T_008865 [Vitis vinifera]	specific	461560	145	302	1.62148e-82	247.671	pfam05142	DUF702	 - 	cl38179
+Q#6 - >WKA02000.1 hypothetical protein VitviT2T_020242 [Vitis vinifera]	specific	461560	53	213	3.06631e-70	213.003	pfam05142	DUF702	 - 	cl38179
+Q#7 - >WKA10222.1 hypothetical protein VitviT2T_027804 [Vitis vinifera]	specific	461560	108	258	4.75775e-87	257.686	pfam05142	DUF702	 - 	cl38179

@@ -1,0 +1,138 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-88A5CED5BCA3904-3C9FB777486405F3
+#datatype	hitsConcise Results
+#status	0
+#Start time	2025-03-03T02:13:49	Run time	0:00:06:12
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >CAL8086862.1 unnamed protein product [Prunus armeniaca]	specific	269851	232	281	9.29401e-25	96.1048	cd14703	bZIP_plant_RF2	 - 	cl21462
+Q#1 - >CAL8086862.1 unnamed protein product [Prunus armeniaca]	superfamily	274008	244	320	0.000117954	44.6623	cl37069	SMC_prok_B superfamily	NC	 - 
+Q#2 - >CAL8089844.1 unnamed protein product [Prunus armeniaca]	specific	269852	155	197	2.46211e-14	64.903	cd14704	bZIP_HY5-like	 - 	cl21462
+Q#3 - >CAL8089847.1 unnamed protein product [Prunus armeniaca]	specific	269852	123	165	1.83262e-13	61.8214	cd14704	bZIP_HY5-like	 - 	cl21462
+Q#4 - >CAL8095757.1 unnamed protein product [Prunus armeniaca]	specific	269850	86	137	1.5536e-19	77.9593	cd14702	bZIP_plant_GBF1	 - 	cl21462
+Q#5 - >CAL8096394.1 unnamed protein product [Prunus armeniaca]	specific	464092	262	336	6.54005e-38	132.663	pfam14144	DOG1	 - 	cl16653
+Q#5 - >CAL8096394.1 unnamed protein product [Prunus armeniaca]	specific	269856	178	230	2.50202e-22	89.6659	cd14708	bZIP_HBP1b-like	 - 	cl21462
+Q#6 - >CAL8096397.1 unnamed protein product [Prunus armeniaca]	specific	464092	262	336	5.96746e-39	134.589	pfam14144	DOG1	 - 	cl16653
+Q#6 - >CAL8096397.1 unnamed protein product [Prunus armeniaca]	specific	269856	178	230	7.96236e-24	93.5179	cd14708	bZIP_HBP1b-like	 - 	cl21462
+Q#7 - >CAL8096403.1 unnamed protein product [Prunus armeniaca]	specific	464092	262	337	1.00329e-38	132.663	pfam14144	DOG1	 - 	cl16653
+Q#7 - >CAL8096403.1 unnamed protein product [Prunus armeniaca]	specific	269856	178	230	6.15991e-25	95.8291	cd14708	bZIP_HBP1b-like	 - 	cl21462
+Q#8 - >CAL8099262.1 unnamed protein product [Prunus armeniaca]	specific	269851	411	460	4.90929e-22	89.1712	cd14703	bZIP_plant_RF2	 - 	cl21462
+Q#8 - >CAL8099262.1 unnamed protein product [Prunus armeniaca]	superfamily	214922	390	507	0.00192871	38.7186	cl33403	OmpH superfamily	C	 - 
+Q#9 - >CAL8099500.1 unnamed protein product [Prunus armeniaca]	specific	269850	31	82	2.94485e-18	73.7221	cd14702	bZIP_plant_GBF1	 - 	cl21462
+Q#10 - >CAL8101278.1 unnamed protein product [Prunus armeniaca]	specific	269850	114	165	3.9916e-15	66.4034	cd14702	bZIP_plant_GBF1	 - 	cl21462
+Q#11 - >CAL8101933.1 unnamed protein product [Prunus armeniaca]	specific	269855	342	396	7.17448e-27	101.621	cd14707	bZIP_plant_BZIP46	 - 	cl21462
+Q#12 - >CAL8101936.1 unnamed protein product [Prunus armeniaca]	specific	269855	342	396	1.52637e-27	103.162	cd14707	bZIP_plant_BZIP46	 - 	cl21462
+Q#13 - >CAL8101939.1 unnamed protein product [Prunus armeniaca]	specific	269855	342	388	5.12689e-27	102.006	cd14707	bZIP_plant_BZIP46	 - 	cl21462
+Q#14 - >CAL8102869.1 unnamed protein product [Prunus armeniaca]	specific	269850	188	239	6.10677e-06	42.9062	cd14702	bZIP_plant_GBF1	 - 	cl21462
+Q#14 - >CAL8102869.1 unnamed protein product [Prunus armeniaca]	superfamily	440606	207	273	0.00322988	38.771	cl34052	AcrA superfamily	NC	 - 
+Q#15 - >CAL8102872.1 unnamed protein product [Prunus armeniaca]	specific	269850	104	155	3.26233e-06	43.2914	cd14702	bZIP_plant_GBF1	 - 	cl21462
+Q#15 - >CAL8102872.1 unnamed protein product [Prunus armeniaca]	superfamily	440606	123	189	0.00504463	37.6154	cl34052	AcrA superfamily	NC	 - 
+Q#16 - >CAL8102876.1 unnamed protein product [Prunus armeniaca]	specific	269850	188	239	8.3577e-06	42.1358	cd14702	bZIP_plant_GBF1	 - 	cl21462
+Q#17 - >CAL8104093.1 unnamed protein product [Prunus armeniaca]	specific	464092	168	243	5.49531e-30	109.936	pfam14144	DOG1	 - 	cl16653
+Q#17 - >CAL8104093.1 unnamed protein product [Prunus armeniaca]	superfamily	473870	82	134	3.42367e-17	74.6431	cl21462	bZIP superfamily	 - 	 - 
+Q#18 - >CAL8104096.1 unnamed protein product [Prunus armeniaca]	specific	464092	163	238	4.49492e-30	109.936	pfam14144	DOG1	 - 	cl16653
+Q#18 - >CAL8104096.1 unnamed protein product [Prunus armeniaca]	superfamily	473870	77	129	1.71765e-17	75.4135	cl21462	bZIP superfamily	 - 	 - 
+Q#19 - >CAL8104102.1 unnamed protein product [Prunus armeniaca]	specific	269855	247	292	8.30837e-22	86.598	cd14707	bZIP_plant_BZIP46	 - 	cl21462
+Q#20 - >CAL8105422.1 unnamed protein product [Prunus armeniaca]	specific	269852	90	141	1.05889e-16	69.5254	cd14704	bZIP_HY5-like	 - 	cl21462
+Q#20 - >CAL8105422.1 unnamed protein product [Prunus armeniaca]	superfamily	441980	27	139	0.00819504	35.989	cl43687	COG2433 superfamily	NC	 - 
+Q#21 - >CAL8107985.1 unnamed protein product [Prunus armeniaca]	specific	269855	203	252	8.60942e-19	77.7384	cd14707	bZIP_plant_BZIP46	 - 	cl21462
+Q#22 - >CAL8114031.1 unnamed protein product [Prunus armeniaca]	specific	269852	248	299	6.13267e-22	89.1706	cd14704	bZIP_HY5-like	 - 	cl21462
+Q#23 - >CAL8114317.1 unnamed protein product [Prunus armeniaca]	specific	462244	82	106	5.31597e-06	42.2029	pfam07716	bZIP_2	C	cl47987
+Q#24 - >CAL8115001.1 unnamed protein product [Prunus armeniaca]	specific	464092	175	249	5.40589e-40	136.515	pfam14144	DOG1	 - 	cl16653
+Q#24 - >CAL8115001.1 unnamed protein product [Prunus armeniaca]	specific	269856	93	145	8.78916e-22	87.3547	cd14708	bZIP_HBP1b-like	 - 	cl21462
+Q#25 - >CAL8115004.1 unnamed protein product [Prunus armeniaca]	specific	464092	130	204	1.00686e-40	136.9	pfam14144	DOG1	 - 	cl16653
+Q#25 - >CAL8115004.1 unnamed protein product [Prunus armeniaca]	specific	269856	48	100	1.55895e-20	83.5027	cd14708	bZIP_HBP1b-like	 - 	cl21462
+Q#26 - >CAL8115007.1 unnamed protein product [Prunus armeniaca]	specific	464092	126	200	1.6816e-40	136.515	pfam14144	DOG1	 - 	cl16653
+Q#26 - >CAL8115007.1 unnamed protein product [Prunus armeniaca]	specific	269856	44	96	5.74148e-21	84.6583	cd14708	bZIP_HBP1b-like	 - 	cl21462
+Q#27 - >CAL8116396.1 unnamed protein product [Prunus armeniaca]	specific	269855	252	306	1.59488e-23	91.2204	cd14707	bZIP_plant_BZIP46	 - 	cl21462
+Q#28 - >CAL8123497.1 unnamed protein product [Prunus armeniaca]	specific	400228	1	98	1.92147e-39	136.72	pfam07777	MFMR	 - 	cl06693
+Q#28 - >CAL8123497.1 unnamed protein product [Prunus armeniaca]	specific	197664	282	345	5.06558e-24	94.1679	smart00338	BRLZ	 - 	cl21462
+Q#28 - >CAL8123497.1 unnamed protein product [Prunus armeniaca]	superfamily	406895	129	262	1.13896e-18	81.8347	cl24974	MFMR_assoc superfamily	 - 	 - 
+Q#29 - >CAL8123500.1 unnamed protein product [Prunus armeniaca]	specific	400228	1	98	4.57872e-34	119.772	pfam07777	MFMR	 - 	cl06693
+Q#29 - >CAL8123500.1 unnamed protein product [Prunus armeniaca]	superfamily	406895	129	262	5.95393e-18	78.7531	cl24974	MFMR_assoc superfamily	 - 	 - 
+Q#29 - >CAL8123500.1 unnamed protein product [Prunus armeniaca]	specific	269850	287	306	1.05786e-10	56.003	cd14702	bZIP_plant_GBF1	C	cl21462
+Q#30 - >CAL8126245.1 unnamed protein product [Prunus armeniaca]	specific	269851	160	209	4.67768e-23	90.3268	cd14703	bZIP_plant_RF2	 - 	cl21462
+Q#30 - >CAL8126245.1 unnamed protein product [Prunus armeniaca]	superfamily	459244	171	249	0.00351039	38.8899	cl45899	ClyA-like superfamily	NC	 - 
+Q#31 - >CAL8134863.1 unnamed protein product [Prunus armeniaca]	specific	269851	185	235	8.64934e-23	89.1712	cd14703	bZIP_plant_RF2	 - 	cl21462
+Q#31 - >CAL8134863.1 unnamed protein product [Prunus armeniaca]	superfamily	442439	185	296	0.00224673	39.6149	cl34566	GumC superfamily	NC	 - 
+Q#32 - >CAL8140416.1 unnamed protein product [Prunus armeniaca]	specific	269850	88	139	7.2164e-19	76.4185	cd14702	bZIP_plant_GBF1	 - 	cl21462
+Q#33 - >CAL8150961.1 unnamed protein product [Prunus armeniaca]	specific	269851	196	247	6.72108e-22	86.86	cd14703	bZIP_plant_RF2	 - 	cl21462
+Q#34 - >CAL8150962.1 unnamed protein product [Prunus armeniaca]	specific	269851	196	246	1.15117e-23	91.4824	cd14703	bZIP_plant_RF2	 - 	cl21462
+Q#35 - >CAL8155030.1 unnamed protein product [Prunus armeniaca]	specific	269852	156	207	2.73673e-14	66.4438	cd14704	bZIP_HY5-like	 - 	cl21462
+Q#36 - >CAL8155657.1 unnamed protein product [Prunus armeniaca]	specific	406895	137	273	9.71764e-60	190.461	pfam16596	MFMR_assoc	 - 	cl24974
+Q#36 - >CAL8155657.1 unnamed protein product [Prunus armeniaca]	specific	400228	1	98	1.01194e-37	131.713	pfam07777	MFMR	 - 	cl06693
+Q#36 - >CAL8155657.1 unnamed protein product [Prunus armeniaca]	specific	197664	306	370	2.28694e-26	100.331	smart00338	BRLZ	 - 	cl21462
+Q#37 - >CAL8157521.1 unnamed protein product [Prunus armeniaca]	specific	269850	147	193	2.01244e-16	71.4109	cd14702	bZIP_plant_GBF1	 - 	cl21462
+Q#38 - >CAL8157522.1 unnamed protein product [Prunus armeniaca]	specific	269850	147	174	6.03883e-13	61.3958	cd14702	bZIP_plant_GBF1	C	cl21462
+Q#39 - >CAL8159057.1 unnamed protein product [Prunus armeniaca]	specific	269850	74	122	1.19663e-15	67.1738	cd14702	bZIP_plant_GBF1	 - 	cl21462
+Q#39 - >CAL8159057.1 unnamed protein product [Prunus armeniaca]	superfamily	442308	95	155	0.000233268	38.0291	cl43780	ZapB superfamily	N	 - 
+Q#40 - >CAL8160335.1 unnamed protein product [Prunus armeniaca]	specific	269851	245	294	6.18902e-23	91.0972	cd14703	bZIP_plant_RF2	 - 	cl21462
+Q#40 - >CAL8160335.1 unnamed protein product [Prunus armeniaca]	superfamily	443752	233	334	0.000240589	43.6029	cl34808	YhaN superfamily	C	 - 
+Q#41 - >CAL8160521.1 unnamed protein product [Prunus armeniaca]	specific	269851	158	204	1.6694e-17	72.9928	cd14703	bZIP_plant_RF2	 - 	cl21462
+Q#42 - >CAL8161942.1 unnamed protein product [Prunus armeniaca]	specific	269855	406	466	4.26964e-24	94.6872	cd14707	bZIP_plant_BZIP46	 - 	cl21462
+Q#43 - >CAL8161944.1 unnamed protein product [Prunus armeniaca]	specific	464092	293	367	6.0029e-39	136.129	pfam14144	DOG1	 - 	cl16653
+Q#43 - >CAL8161944.1 unnamed protein product [Prunus armeniaca]	superfamily	473870	212	258	6.36439e-20	83.1175	cl21462	bZIP superfamily	 - 	 - 
+Q#44 - >CAL8161945.1 unnamed protein product [Prunus armeniaca]	specific	464092	309	383	4.66963e-39	136.9	pfam14144	DOG1	 - 	cl16653
+Q#44 - >CAL8161945.1 unnamed protein product [Prunus armeniaca]	superfamily	473870	228	274	1.1017e-19	82.3471	cl21462	bZIP superfamily	 - 	 - 
+Q#45 - >CAL8161946.1 unnamed protein product [Prunus armeniaca]	specific	464092	282	356	3.92006e-39	136.515	pfam14144	DOG1	 - 	cl16653
+Q#45 - >CAL8161946.1 unnamed protein product [Prunus armeniaca]	superfamily	473870	201	247	3.23437e-19	81.1915	cl21462	bZIP superfamily	 - 	 - 
+Q#46 - >CAL8161947.1 unnamed protein product [Prunus armeniaca]	specific	464092	204	278	9.3941e-40	136.9	pfam14144	DOG1	 - 	cl16653
+Q#46 - >CAL8161947.1 unnamed protein product [Prunus armeniaca]	superfamily	473870	123	169	1.42053e-18	78.8803	cl21462	bZIP superfamily	 - 	 - 
+Q#47 - >CAL8161948.1 unnamed protein product [Prunus armeniaca]	specific	464092	293	367	8.38275e-40	137.285	pfam14144	DOG1	 - 	cl16653
+Q#47 - >CAL8161948.1 unnamed protein product [Prunus armeniaca]	specific	269856	212	258	1.38779e-20	84.6583	cd14708	bZIP_HBP1b-like	 - 	cl21462
+Q#48 - >CAL8161949.1 unnamed protein product [Prunus armeniaca]	specific	464092	309	383	6.82519e-40	138.055	pfam14144	DOG1	 - 	cl16653
+Q#48 - >CAL8161949.1 unnamed protein product [Prunus armeniaca]	specific	269856	228	274	3.16339e-20	83.8879	cd14708	bZIP_HBP1b-like	 - 	cl21462
+Q#49 - >CAL8161950.1 unnamed protein product [Prunus armeniaca]	specific	464092	204	278	6.991e-41	138.441	pfam14144	DOG1	 - 	cl16653
+Q#49 - >CAL8161950.1 unnamed protein product [Prunus armeniaca]	superfamily	473870	123	169	4.18286e-19	80.0359	cl21462	bZIP superfamily	 - 	 - 
+Q#50 - >CAL8162808.1 unnamed protein product [Prunus armeniaca]	specific	269855	200	237	4.07607e-13	62.7156	cd14707	bZIP_plant_BZIP46	C	cl21462
+Q#51 - >CAL8162809.1 unnamed protein product [Prunus armeniaca]	specific	269855	200	237	2.15324e-13	63.1008	cd14707	bZIP_plant_BZIP46	C	cl21462
+Q#52 - >CAL8162810.1 unnamed protein product [Prunus armeniaca]	specific	269855	200	242	1.4625e-15	68.8788	cd14707	bZIP_plant_BZIP46	C	cl21462
+Q#53 - >CAL8162811.1 unnamed protein product [Prunus armeniaca]	specific	269855	200	242	1.32626e-15	68.8788	cd14707	bZIP_plant_BZIP46	C	cl21462
+Q#54 - >CAL8163739.1 unnamed protein product [Prunus armeniaca]	specific	464092	165	239	3.37285e-36	126.114	pfam14144	DOG1	 - 	cl16653
+Q#54 - >CAL8163739.1 unnamed protein product [Prunus armeniaca]	superfamily	473870	78	131	3.41178e-19	80.0359	cl21462	bZIP superfamily	 - 	 - 
+Q#55 - >CAL8164623.1 unnamed protein product [Prunus armeniaca]	specific	269850	102	146	3.27893e-17	72.1813	cd14702	bZIP_plant_GBF1	 - 	cl21462
+Q#55 - >CAL8164623.1 unnamed protein product [Prunus armeniaca]	superfamily	274008	81	186	0.00485957	37.3435	cl37069	SMC_prok_B superfamily	NC	 - 
+Q#56 - >CAL8165739.1 unnamed protein product [Prunus armeniaca]	superfamily	473870	56	103	0.00125707	35.2426	cl21462	bZIP superfamily	 - 	 - 
+Q#57 - >CAL8166696.1 unnamed protein product [Prunus armeniaca]	specific	403631	329	456	1.27233e-39	138.781	pfam12498	bZIP_C	 - 	cl13879
+Q#57 - >CAL8166696.1 unnamed protein product [Prunus armeniaca]	specific	269850	263	314	3.93563e-05	40.9802	cd14702	bZIP_plant_GBF1	 - 	cl21462
+Q#58 - >CAL8168914.1 unnamed protein product [Prunus armeniaca]	specific	464092	249	323	3.02677e-39	136.129	pfam14144	DOG1	 - 	cl16653
+Q#58 - >CAL8168914.1 unnamed protein product [Prunus armeniaca]	specific	269856	167	219	3.65097e-21	86.1991	cd14708	bZIP_HBP1b-like	 - 	cl21462
+Q#59 - >CAL8169900.1 unnamed protein product [Prunus armeniaca]	specific	464092	341	415	9.29396e-38	133.433	pfam14144	DOG1	 - 	cl16653
+Q#59 - >CAL8169900.1 unnamed protein product [Prunus armeniaca]	specific	269856	251	303	1.3274e-21	88.1251	cd14708	bZIP_HBP1b-like	 - 	cl21462
+Q#59 - >CAL8169900.1 unnamed protein product [Prunus armeniaca]	superfamily	223039	144	250	0.000388393	43.6213	cl33723	PHA03307 superfamily	C	 - 
+Q#60 - >CAL8169901.1 unnamed protein product [Prunus armeniaca]	specific	464092	185	259	5.98605e-39	133.818	pfam14144	DOG1	 - 	cl16653
+Q#60 - >CAL8169901.1 unnamed protein product [Prunus armeniaca]	specific	269856	95	147	4.89631e-21	85.4287	cd14708	bZIP_HBP1b-like	 - 	cl21462
+Q#60 - >CAL8169901.1 unnamed protein product [Prunus armeniaca]	superfamily	223065	1	121	0.00192505	40.4356	cl33729	PHA03378 superfamily	N	 - 
+Q#61 - >CAL8170458.1 unnamed protein product [Prunus armeniaca]	specific	269855	361	415	6.99879e-23	91.2204	cd14707	bZIP_plant_BZIP46	 - 	cl21462
+Q#62 - >CAL8170489.1 unnamed protein product [Prunus armeniaca]	specific	269850	189	222	4.41055e-09	52.5362	cd14702	bZIP_plant_GBF1	C	cl21462
+Q#63 - >CAL8171046.1 unnamed protein product [Prunus armeniaca]	specific	400228	12	105	6.84057e-46	151.743	pfam07777	MFMR	 - 	cl06693
+Q#63 - >CAL8171046.1 unnamed protein product [Prunus armeniaca]	specific	197664	267	330	2.56231e-27	102.257	smart00338	BRLZ	 - 	cl21462
+Q#64 - >CAL8171047.1 unnamed protein product [Prunus armeniaca]	specific	400228	12	105	2.32886e-40	135.95	pfam07777	MFMR	 - 	cl06693
+Q#64 - >CAL8171047.1 unnamed protein product [Prunus armeniaca]	specific	269850	272	291	3.29029e-11	57.5438	cd14702	bZIP_plant_GBF1	C	cl21462
+Q#65 - >CAL8171048.1 unnamed protein product [Prunus armeniaca]	specific	400228	1	94	4.0099e-46	152.128	pfam07777	MFMR	 - 	cl06693
+Q#65 - >CAL8171048.1 unnamed protein product [Prunus armeniaca]	specific	197664	256	319	2.14559e-27	102.257	smart00338	BRLZ	 - 	cl21462
+Q#66 - >CAL8171049.1 unnamed protein product [Prunus armeniaca]	specific	197664	195	258	3.32275e-25	95.3235	smart00338	BRLZ	 - 	cl21462
+Q#66 - >CAL8171049.1 unnamed protein product [Prunus armeniaca]	superfamily	400228	1	33	6.3998e-19	79.7109	cl06693	MFMR superfamily	N	 - 
+Q#66 - >CAL8171049.1 unnamed protein product [Prunus armeniaca]	superfamily	406895	55	170	0.00660235	35.996	cl24974	MFMR_assoc superfamily	 - 	 - 
+Q#67 - >CAL8171167.1 unnamed protein product [Prunus armeniaca]	specific	269850	31	82	7.26419e-17	69.8701	cd14702	bZIP_plant_GBF1	 - 	cl21462
+Q#67 - >CAL8171167.1 unnamed protein product [Prunus armeniaca]	superfamily	424070	73	118	0.0015755	37.6507	cl40439	CoV_Spike_S1-S2_S2 superfamily	N	 - 
+Q#68 - >CAL8173702.1 unnamed protein product [Prunus armeniaca]	specific	269851	187	236	1.33177e-22	89.1712	cd14703	bZIP_plant_RF2	 - 	cl21462
+Q#68 - >CAL8173702.1 unnamed protein product [Prunus armeniaca]	specific	442308	210	282	1.78679e-06	45.3478	COG3074	ZapB	 - 	cl43780
+Q#69 - >CAL8173703.1 unnamed protein product [Prunus armeniaca]	specific	269851	187	234	8.78127e-24	89.9416	cd14703	bZIP_plant_RF2	 - 	cl21462
+Q#70 - >CAL8173812.1 unnamed protein product [Prunus armeniaca]	specific	269855	235	281	7.02659e-17	73.5012	cd14707	bZIP_plant_BZIP46	 - 	cl21462
+Q#71 - >CAL8173813.1 unnamed protein product [Prunus armeniaca]	specific	269855	235	281	6.94233e-17	73.116	cd14707	bZIP_plant_BZIP46	 - 	cl21462
+Q#72 - >CAL8173814.1 unnamed protein product [Prunus armeniaca]	specific	269855	235	281	8.10386e-18	75.4272	cd14707	bZIP_plant_BZIP46	 - 	cl21462
+Q#73 - >CAL8175977.1 unnamed protein product [Prunus armeniaca]	specific	269850	31	82	1.54326e-18	74.1073	cd14702	bZIP_plant_GBF1	 - 	cl21462
+Q#74 - >CAL8176157.1 unnamed protein product [Prunus armeniaca]	specific	269850	240	288	2.76606e-13	63.707	cd14702	bZIP_plant_GBF1	 - 	cl21462
+Q#75 - >CAL8176563.1 unnamed protein product [Prunus armeniaca]	specific	269855	351	405	1.20081e-24	95.8428	cd14707	bZIP_plant_BZIP46	 - 	cl21462
+Q#76 - >CAL8176564.1 unnamed protein product [Prunus armeniaca]	specific	269855	351	396	2.83315e-24	94.302	cd14707	bZIP_plant_BZIP46	 - 	cl21462
+Q#77 - >CAL8177203.1 unnamed protein product [Prunus armeniaca]	specific	197664	87	153	2.29529e-14	66.0483	smart00338	BRLZ	 - 	cl21462
+Q#78 - >CAL8177205.1 unnamed protein product [Prunus armeniaca]	specific	197664	87	153	2.98298e-14	66.0483	smart00338	BRLZ	 - 	cl21462
+Q#79 - >CAL8177714.1 unnamed protein product [Prunus armeniaca]	specific	269851	36	85	1.59816e-13	60.6664	cd14703	bZIP_plant_RF2	 - 	cl21462
+Q#80 - >CAL8178524.1 unnamed protein product [Prunus armeniaca]	specific	403631	303	421	9.19889e-25	98.7206	pfam12498	bZIP_C	 - 	cl13879
+Q#80 - >CAL8178524.1 unnamed protein product [Prunus armeniaca]	specific	269850	237	288	4.00012e-05	40.9802	cd14702	bZIP_plant_GBF1	 - 	cl21462
+Q#81 - >CAL8178525.1 unnamed protein product [Prunus armeniaca]	specific	403631	308	426	1.02547e-24	98.7206	pfam12498	bZIP_C	 - 	cl13879
+Q#81 - >CAL8178525.1 unnamed protein product [Prunus armeniaca]	specific	269850	242	293	4.2067e-05	40.9802	cd14702	bZIP_plant_GBF1	 - 	cl21462
+Q#82 - >CAL8179121.1 unnamed protein product [Prunus armeniaca]	specific	269850	22	61	2.60927e-14	62.9366	cd14702	bZIP_plant_GBF1	C	cl21462
+Q#82 - >CAL8179121.1 unnamed protein product [Prunus armeniaca]	superfamily	448296	39	96	0.00891425	33.5183	cl11531	ZapB superfamily	 - 	 - 

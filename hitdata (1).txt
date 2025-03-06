@@ -1,0 +1,68 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-27CE28954D9AD434-3CD38C0DB90B4A8E
+#datatype	hitsConcise Results
+#status	0
+#Start time	2025-03-03T00:55:25	Run time	0:00:09:20
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >XP_021886843.1 uncharacterized protein LOC110806335 [Carica papaya]	superfamily	400190	11	105	1.43505e-32	113.456	cl06662	RVT_2 superfamily	C	 - 
+Q#2 - >XP_021886848.1 uncharacterized protein DDB_G0273701/DDB_G0273221-like [Carica papaya]	specific	197609	56	95	4.38498e-10	50.522	smart00257	LysM	 - 	cl21525
+Q#3 - >XP_021886855.1 uncharacterized protein LOC110806350 isoform X1 [Carica papaya]	specific	464114	28	74	5.21325e-15	68.5483	pfam14244	Retrotran_gag_3	 - 	cl48244
+Q#6 - >XP_021886893.1 uncharacterized protein LOC110806372 [Carica papaya]	specific	238068	126	259	3.05068e-19	83.5826	cd00121	MATH	 - 	cl02446
+Q#6 - >XP_021886893.1 uncharacterized protein LOC110806372 [Carica papaya]	specific	238068	334	466	1.20474e-18	82.0418	cd00121	MATH	 - 	cl02446
+Q#9 - >XP_021886928.1 uncharacterized protein LOC110806399 [Carica papaya]	specific	188886	199	253	5.556e-14	64.5681	cd09487	SAM_superfamily	 - 	cl15755
+Q#10 - >XP_021886952.1 uncharacterized protein LOC110806413 isoform X1 [Carica papaya]	specific	441376	40	746	0	1014.61	COG1770	PtrB	 - 	cl34357
+Q#11 - >XP_021886953.1 uncharacterized protein LOC110806413 isoform X2 [Carica papaya]	specific	441376	1	707	0	1011.15	COG1770	PtrB	 - 	cl34357
+Q#12 - >XP_021887026.1 uncharacterized protein LOC110806459 [Carica papaya]	specific	462016	296	352	5.33257e-33	117.341	pfam06830	Root_cap	 - 	cl46397
+Q#14 - >XP_021887028.1 uncharacterized protein LOC110806462 [Carica papaya]	specific	128983	258	307	3.19304e-18	78.1046	smart00744	RINGv	 - 	cl17238
+Q#15 - >XP_021887050.1 uncharacterized protein LOC110806479 [Carica papaya]	superfamily	470762	212	359	0.0057097	38.3435	cl03224	Porin3 superfamily	N	 - 
+Q#16 - >XP_021887051.1 uncharacterized protein LOC110806479 [Carica papaya]	superfamily	470762	212	359	0.0057097	38.3435	cl03224	Porin3 superfamily	N	 - 
+Q#17 - >XP_021887059.1 uncharacterized protein LOC110806486 isoform X1 [Carica papaya]	superfamily	463954	275	362	5.76405e-05	43.4582	cl48220	TIR_2 superfamily	 - 	 - 
+Q#17 - >XP_021887059.1 uncharacterized protein LOC110806486 isoform X1 [Carica papaya]	specific	214640	567	699	0.000234569	42.7457	smart00382	AAA	 - 	cl38936
+Q#18 - >XP_021887060.1 uncharacterized protein LOC110806486 isoform X2 [Carica papaya]	superfamily	463954	275	362	6.30677e-05	43.4582	cl48220	TIR_2 superfamily	 - 	 - 
+Q#18 - >XP_021887060.1 uncharacterized protein LOC110806486 isoform X2 [Carica papaya]	specific	214640	567	699	0.000242	42.7457	smart00382	AAA	 - 	cl38936
+Q#19 - >XP_021887061.1 uncharacterized protein LOC110806486 isoform X3 [Carica papaya]	superfamily	463954	275	362	6.29453e-05	43.4582	cl48220	TIR_2 superfamily	 - 	 - 
+Q#19 - >XP_021887061.1 uncharacterized protein LOC110806486 isoform X3 [Carica papaya]	specific	214640	567	699	0.000236965	42.7457	smart00382	AAA	 - 	cl38936
+Q#20 - >XP_021887062.1 uncharacterized protein LOC110806486 isoform X4 [Carica papaya]	superfamily	463954	179	266	4.70239e-05	43.8434	cl48220	TIR_2 superfamily	 - 	 - 
+Q#20 - >XP_021887062.1 uncharacterized protein LOC110806486 isoform X4 [Carica papaya]	specific	214640	471	603	0.000206451	42.7457	smart00382	AAA	 - 	cl38936
+Q#21 - >XP_021887063.1 uncharacterized protein LOC110806486 isoform X4 [Carica papaya]	superfamily	463954	179	266	4.70239e-05	43.8434	cl48220	TIR_2 superfamily	 - 	 - 
+Q#21 - >XP_021887063.1 uncharacterized protein LOC110806486 isoform X4 [Carica papaya]	specific	214640	471	603	0.000206451	42.7457	smart00382	AAA	 - 	cl38936
+Q#22 - >XP_021887064.1 uncharacterized protein LOC110806486 isoform X4 [Carica papaya]	superfamily	463954	179	266	4.70239e-05	43.8434	cl48220	TIR_2 superfamily	 - 	 - 
+Q#22 - >XP_021887064.1 uncharacterized protein LOC110806486 isoform X4 [Carica papaya]	specific	214640	471	603	0.000206451	42.7457	smart00382	AAA	 - 	cl38936
+Q#23 - >XP_021887078.1 uncharacterized protein LOC110806496 isoform X1 [Carica papaya]	specific	464006	192	246	2.76238e-14	65.2611	pfam13867	SAP30_Sin3_bdg	 - 	cl16443
+Q#24 - >XP_021887079.1 uncharacterized protein LOC110806496 isoform X1 [Carica papaya]	specific	464006	192	246	2.76238e-14	65.2611	pfam13867	SAP30_Sin3_bdg	 - 	cl16443
+Q#25 - >XP_021887099.1 uncharacterized protein LOC110806516 isoform X1 [Carica papaya]	specific	440425	77	532	1.97765e-159	466.219	COG0661	AarF	 - 	cl33997
+Q#27 - >XP_021887134.1 uncharacterized protein LOC110806548 [Carica papaya]	specific	440425	154	620	9.81956e-171	498.19	COG0661	AarF	 - 	cl33997
+Q#28 - >XP_021887153.1 uncharacterized protein At1g03900-like isoform X1 [Carica papaya]	specific	270048	28	117	1.48355e-48	151.554	cd13228	PHear_NECAP	C	cl17171
+Q#29 - >XP_021887154.1 uncharacterized protein At1g03900-like isoform X2 [Carica papaya]	superfamily	473070	28	106	2.25618e-40	130.753	cl17171	PH-like superfamily	C	 - 
+Q#31 - >XP_021887207.1 uncharacterized protein At1g32220, chloroplastic isoform X1 [Carica papaya]	specific	440466	72	292	2.24399e-25	100.69	COG0702	YbjT	 - 	cl34011
+Q#32 - >XP_021887247.1 uncharacterized protein LOC110806632 [Carica papaya]	specific	428015	318	352	7.63405e-19	79.5533	pfam04570	zf-FLZ	 - 	cl04598
+Q#36 - >XP_021887297.1 uncharacterized protein LOC110806686 isoform X1 [Carica papaya]	specific	462304	111	213	3.25819e-48	158.922	pfam07889	DUF1664	 - 	cl06776
+Q#37 - >XP_021887313.1 uncharacterized protein LOC110806703 isoform X1 [Carica papaya]	superfamily	460856	41	76	0.000487545	36.1707	cl03954	LEA_3 superfamily	N	 - 
+Q#43 - >XP_021887420.1 uncharacterized protein LOC110806790 [Carica papaya]	specific	214998	724	813	5.20729e-33	123.279	smart01054	CaM_binding	 - 	cl47069
+Q#61 - >XP_021887467.1 LOW QUALITY PROTEIN: uncharacterized protein LOC110806825 [Carica papaya]	superfamily	448410	52	110	1.44525e-12	58.8149	cl12118	LEA_2 superfamily	C	 - 
+Q#62 - >XP_021887468.1 uncharacterized protein At5g41620 [Carica papaya]	superfamily	173412	278	476	0.000590982	43.2059	cl31754	PTZ00121 superfamily	N	 - 
+Q#74 - >XP_021887566.1 uncharacterized protein LOC110806891 isoform X1 [Carica papaya]	superfamily	473868	83	370	1.09746e-25	104.791	cl21460	HAD_like superfamily	 - 	 - 
+Q#79 - >XP_021887581.1 uncharacterized protein LOC110806900 [Carica papaya]	specific	463994	18	96	4.44108e-14	66.5209	pfam13837	Myb_DNA-bind_4	 - 	cl46313
+Q#82 - >XP_021887648.1 uncharacterized protein LOC110806952 [Carica papaya]	specific	465033	331	386	6.37031e-15	68.4972	pfam16135	TDBD	 - 	cl24645
+Q#83 - >XP_021887649.1 uncharacterized protein LOC110806952 [Carica papaya]	specific	465033	331	386	6.37031e-15	68.4972	pfam16135	TDBD	 - 	cl24645
+Q#84 - >XP_021887650.1 uncharacterized protein LOC110806953 isoform X1 [Carica papaya]	specific	319925	9	134	5.41614e-38	125.137	cd07264	VOC_like	 - 	cl14632
+Q#85 - >XP_021887651.1 uncharacterized protein LOC110806950 [Carica papaya]	superfamily	473071	1	215	7.84689e-102	293.734	cl17173	AdoMet_MTases superfamily	 - 	 - 
+Q#86 - >XP_021887656.1 uncharacterized protein LOC110806957 [Carica papaya]	specific	107221	374	476	1.39075e-05	43.3117	cd06464	ACD_sHsps-like	 - 	cl00175
+Q#87 - >XP_021887675.1 uncharacterized protein LOC110806972 [Carica papaya]	superfamily	178747	127	262	8.28659e-22	92.4569	cl31984	PLN03208 superfamily	 - 	 - 
+Q#88 - >XP_021887676.1 uncharacterized protein LOC110806972 [Carica papaya]	superfamily	178747	127	262	8.28659e-22	92.4569	cl31984	PLN03208 superfamily	 - 	 - 
+Q#89 - >XP_021887677.1 uncharacterized protein LOC110806972 [Carica papaya]	superfamily	178747	127	262	8.28659e-22	92.4569	cl31984	PLN03208 superfamily	 - 	 - 
+Q#90 - >XP_021887688.1 uncharacterized protein LOC110806980 [Carica papaya]	specific	99922	314	401	2.69893e-13	66.2418	cd04369	Bromodomain	 - 	cl02556
+Q#90 - >XP_021887688.1 uncharacterized protein LOC110806980 [Carica papaya]	specific	197842	27	80	2.53158e-07	47.6037	smart00717	SANT	 - 	cl21498
+Q#91 - >XP_021887695.1 uncharacterized protein LOC110806987 [Carica papaya]	superfamily	473870	189	215	0.00128081	35.9909	cl21462	bZIP superfamily	N	 - 
+Q#92 - >XP_021887700.1 LOW QUALITY PROTEIN: uncharacterized protein LOC110806993 [Carica papaya]	specific	427141	74	122	5.03633e-08	48.143	pfam03107	C1_2	 - 	cl03893
+Q#92 - >XP_021887700.1 LOW QUALITY PROTEIN: uncharacterized protein LOC110806993 [Carica papaya]	specific	427141	133	188	2.09745e-06	43.9058	pfam03107	C1_2	 - 	cl03893
+Q#97 - >XP_021887758.1 LOW QUALITY PROTEIN: uncharacterized protein LOC110807046 [Carica papaya]	specific	380916	1898	2037	8.50399e-66	219.391	cd10518	SET_SETD1-like	 - 	cl40432
+Q#97 - >XP_021887758.1 LOW QUALITY PROTEIN: uncharacterized protein LOC110807046 [Carica papaya]	specific	277046	1701	1793	7.01748e-21	89.5663	cd15571	ePHD	N	cl22851
+Q#97 - >XP_021887758.1 LOW QUALITY PROTEIN: uncharacterized protein LOC110807046 [Carica papaya]	superfamily	227470	1610	1776	2.55312e-18	91.5829	cl34917	COG5141 superfamily	NC	 - 
+Q#97 - >XP_021887758.1 LOW QUALITY PROTEIN: uncharacterized protein LOC110807046 [Carica papaya]	specific	465033	264	308	8.37527e-11	58.8672	pfam16135	TDBD	 - 	cl24645
+Q#99 - >XP_021887789.1 uncharacterized protein LOC110807078 isoform X2 [Carica papaya]	superfamily	471961	160	522	2.98848e-07	53.3105	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#100 - >XP_021887796.1 uncharacterized protein LOC110807082 isoform X1 [Carica papaya]	superfamily	471850	99	209	1.13294e-13	64.9745	cl09109	NTF2_like superfamily	 - 	 - 
+Q#101 - >XP_021887797.1 uncharacterized protein LOC110807082 isoform X2 [Carica papaya]	superfamily	471850	99	190	2.79546e-05	41.8626	cl09109	NTF2_like superfamily	 - 	 - 
+Q#102 - >XP_021887798.1 uncharacterized protein LOC110807082 isoform X3 [Carica papaya]	superfamily	471850	99	190	1.02212e-05	43.0182	cl09109	NTF2_like superfamily	 - 	 - 
