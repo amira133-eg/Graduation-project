@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+KAE9586148.1         -          DUF702               PF05142.17   2.4e-65  220.7   5.7   4.6e-65  219.8   5.7   1.5   1   0   0   1   1   1   1 putative transcription factor STY-LRP1 family [Lupinus albus]
+KAE9606674.1         -          DUF702               PF05142.17   1.6e-62  211.6   8.1   2.4e-62  211.0   8.1   1.3   1   0   0   1   1   1   1 putative transcription factor STY-LRP1 family [Lupinus albus]
+KAE9600129.1         -          DUF702               PF05142.17   1.8e-61  208.2   2.4   1.8e-61  208.2   2.4   1.5   2   0   0   2   2   2   1 putative transcription factor STY-LRP1 family [Lupinus albus]
+KAE9588355.1         -          DUF702               PF05142.17   9.9e-61  205.8   6.7   1.7e-60  205.0   6.7   1.4   1   0   0   1   1   1   1 putative transcription factor STY-LRP1 family [Lupinus albus]
+KAE9596311.1         -          DUF702               PF05142.17   2.2e-60  204.6   6.1   3.3e-60  204.1   6.1   1.2   1   0   0   1   1   1   1 putative transcription factor STY-LRP1 family [Lupinus albus]
+KAE9614864.1         -          DUF702               PF05142.17   1.7e-58  198.5   7.9   2.4e-58  198.0   7.9   1.2   1   0   0   1   1   1   1 putative transcription factor STY-LRP1 family [Lupinus albus]
+KAE9606287.1         -          DUF702               PF05142.17   2.1e-56  191.7   9.7   3.7e-56  190.9   9.7   1.4   1   0   0   1   1   1   1 putative transcription factor STY-LRP1 family [Lupinus albus]
+KAE9586732.1         -          DUF702               PF05142.17   2.8e-55  188.1  16.1     9e-54  183.2  16.1   2.2   1   1   0   1   1   1   1 putative transcription factor STY-LRP1 family [Lupinus albus]
+KAE9596592.1         -          DUF702               PF05142.17     2e-54  185.3  15.3     1e-53  183.0  15.3   1.9   1   1   0   1   1   1   1 putative transcription factor STY-LRP1 family [Lupinus albus]
+KAE9617173.1         -          DUF702               PF05142.17   1.7e-53  182.3   6.1   3.2e-53  181.4   6.1   1.5   1   0   0   1   1   1   1 putative transcription factor STY-LRP1 family [Lupinus albus]
+KAE9603550.1         -          DUF702               PF05142.17   2.3e-52  178.6  20.4   7.2e-50  170.5  20.4   2.2   1   1   0   1   1   1   1 putative transcription factor STY-LRP1 family [Lupinus albus]
+KAE9620360.1         -          DUF702               PF05142.17   1.3e-45  156.7   6.7   2.9e-45  155.5   6.7   1.6   1   1   0   1   1   1   1 putative transcription factor STY-LRP1 family [Lupinus albus]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      PF05142.hmm
+# Target file:     protein.faa
+# Option settings: hmmsearch --tblout search_results.txt -E 1e-5 --cpu 4 PF05142.hmm protein.faa 
+# Current dir:     /home/lenovo/lupinus_srs
+# Date:            Wed Feb 26 04:00:32 2025
+# [ok]
